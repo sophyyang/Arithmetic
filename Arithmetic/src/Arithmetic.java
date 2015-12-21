@@ -10,6 +10,9 @@ import java.util.*;
  * PI abs cos exp log log10 max min pow rond sin sqrt tan toDegrees to Radians
  * add multiply sbutract //java.math.BigDecimal java.math.BigInteger
  * prime number: 2,3,5,7,11.....
+ * 2015-12-21 checkin to GitHub repository Arithmetic
+ * https://github.com/sophyyang/Arithmetic/blob/master/Arithmetic/src/Arithmetic.java
+ * https://github.com/sophyyang/Arithmetic.git
  */
 import java.util.Arrays;
 
